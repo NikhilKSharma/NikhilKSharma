@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hi there! I'm an Electronics Engineer from IIIT Kota
+# 🙋‍♂️ Hi there! I'm a Flutter developer
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=NikhilKSharma&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-- 👩‍💼 Electronics Engineer from **IIIT Kota**
+- 👩‍💼 Electronics and Communication Engineer from **IIIT Kota**
 - 💻 Passionate **Flutter App Developer**
 - 🔬 Constantly learning and exploring new technologies
 
